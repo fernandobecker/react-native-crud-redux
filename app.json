@@ -1,0 +1,12 @@
+{
+  "name": "react-native-crud-redux",
+  "displayName": "react-native-crud-redux",
+  "expo": {
+    "name": "react-native-crud-redux",
+    "slug": "react-native-crud-redux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
